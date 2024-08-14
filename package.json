@@ -1,0 +1,19 @@
+﻿{
+    "name": "com.ni-games.utility",
+    "version": "1.0.0",
+    "displayName": "Ni Utility",
+    "description": "A set of auxiliary utilities for game development.",
+    "unity": "2022.2",
+    "documentationUrl": "",
+    "dependencies": {},
+    "optionalDependencies": {},
+    "keywords": [
+        "NiGames",
+        "Utility"
+    ],
+    "author": {
+        "name": "HoSHIZA",
+        "email": "hoshiza78@gmail.com",
+        "url": "https://github.com/HoSHIZA"
+    }
+}
